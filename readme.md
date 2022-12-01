@@ -1,4 +1,5 @@
 # Present.js
+I made this bullshit for my friend so they could have a tiny websserver to get started with. this was a bullshit name that is probably already taken lol
 
 ## Instructions
 - Download Node.js LTS and install [https://nodejs.org/en/](https://nodejs.org/en/)
